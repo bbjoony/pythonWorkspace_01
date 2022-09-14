@@ -1,5 +1,3 @@
-from random import random
-import pandas as pd
 import random
 
 my_list = []
